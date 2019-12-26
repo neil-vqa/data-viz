@@ -5,7 +5,7 @@
 
 ###### Corruption Perceptions Index
 
-![CPI](cpi-index.png)
+![CPI](cp-index.png)
 
 
 ###### Health Expenditure and Life Expectancy
