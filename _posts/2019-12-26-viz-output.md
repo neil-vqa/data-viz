@@ -1,2 +1,4 @@
+---
 layout: post
-title: "Data Viz by nvqa"
+title:  "Existing power plants in the Philippines"
+---
