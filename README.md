@@ -22,9 +22,14 @@
 ![power](power.png)
 
 
-###### Health Expenditure & Life Expectancy
+###### Southeast Asia CO2 emissions
 
-![Expense-Life](expense-life-scatter.png)
+![emissions](co2_bar_race.gif)
+
+
+###### Philippine Power Plants
+
+![power plants](power-plant.png)
 
 
 ###### Health Stations & Immunization
@@ -37,6 +42,6 @@
 ![commodity](commodity.png)
 
 
-###### Philippine Power Plants
+###### Health Expenditure & Life Expectancy
 
-![power plants](power-plant.png)
+![Expense-Life](expense-life-scatter.png)
