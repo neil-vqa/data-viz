@@ -1,3 +1,8 @@
+###### Are you a Millennial?
+
+![millennials](millennial.png)
+
+
 ###### 175 hours of Sunshine
 
 ![sun175](sunshine175.png)
@@ -38,6 +43,8 @@ Might be useful someday???
 
 ###### Power Generation Sources [(Interactive!)](https://phl-power-gen.herokuapp.com/)
 
+Another Dash implementation.
+
 ![power](power.png)
 
 
@@ -57,6 +64,8 @@ Might be useful someday???
 
 
 ###### Commodity Prices [(Interactive!)](https://phl-retail-commodity.herokuapp.com/)
+
+A Dash implementation.
 
 ![commodity](commodity.png)
 
