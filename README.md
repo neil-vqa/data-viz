@@ -1,3 +1,8 @@
+###### Economic Freedom of the World
+
+![econ-sea](econ-free.png)
+
+
 ###### Japanese ONCE on fire!
 
 ![kpop-rank](kpop.png)
