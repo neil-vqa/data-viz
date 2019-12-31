@@ -1,43 +1,62 @@
+###### Apple's Supremacy
+
+Inspired by the viz of *@hoskerdu* from Makeover Monday. Created using matplotlib.
+
+![corp-profit](corp-profit.gif)
+
+
 ###### Economic Freedom of the World
+
+Created using plotly.
 
 ![econ-sea](econ-free.png)
 
 
 ###### Japanese ONCE on fire!
 
+Created using plotly.
+
 ![kpop-rank](kpop.png)
 
 
 ###### Are you a Millennial?
+
+Created using plotly.
 
 ![millennials](millennial.png)
 
 
 ###### 175 hours of Sunshine
 
+Created using plotly.
+
 ![sun175](sunshine175.png)
 
 
 ###### Sunshiniest in Asia?
 
-Inspired by the viz of David Wakelin from Makeover Monday.
+Inspired by the viz of *David Wakelin* from Makeover Monday. Created using plotly.
 
 ![sunshine](sunshine.png)
 
 
 ###### American Fast Food
 
+Created using plotly.
+
 ![fast food](fastfood.png)
 
 
 ###### Gasoline vs Diesel
+
+Created using plotly.
 
 ![Fuel Difference](fuel_prx.png)
 
 
 ###### View Youtube playlist data [(Interactive!)](https://yt-data-view.herokuapp.com/)
 
-Might be useful someday???
+Might be useful someday??? Created using Dash.
 
 ![top](yt1.png)
 
@@ -48,27 +67,35 @@ Might be useful someday???
 
 ###### Corruption Perceptions Index
 
+Created using plotly.
+
 ![CPI](cp-index.png)
 
 
 ###### Power Generation Sources [(Interactive!)](https://phl-power-gen.herokuapp.com/)
 
-Another Dash implementation.
+A Dash implementation.
 
 ![power](power.png)
 
 
 ###### Southeast Asia CO2 emissions
 
+Created using matplotlib.
+
 ![emissions](co2_bar_race.gif)
 
 
 ###### Philippine Power Plants
 
+Created using plotly.
+
 ![power plants](power-plant.png)
 
 
 ###### Health Stations & Immunization
+
+Created using matplotlib.
 
 ![Choro-health](health_choro_map_modx.png)
 
@@ -81,5 +108,7 @@ A Dash implementation.
 
 
 ###### Health Expenditure & Life Expectancy
+
+Created using plotly.
 
 ![Expense-Life](expense-life-scatter.png)
