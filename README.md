@@ -1,6 +1,6 @@
 ###### Wine for dinner!
 
-Created using plotly (purely).
+Quick viz using plotly (purely).
 
 ![wine-production](wine-produce,png)
 
