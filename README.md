@@ -2,7 +2,7 @@
 
 Quick viz using plotly (purely).
 
-![wine-production](wine-produce,png)
+![wine-production](wine-produce.png)
 
 
 ###### Apple's Supremacy
