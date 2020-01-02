@@ -1,9 +1,8 @@
-The dataset of visualizations presented here are those dataset that got me really interested. Hence, this
-portfolio exists.
+*The dataset, mostly from Makeover Monday, of visualizations presented here are those dataset that got me really interested. Hence, this portfolio exists.*
 
 ###### Food, food, food
 
-I really enjoy working with dataset involving food. Created using plotly.
+Dataset about food is really fun. Created using plotly.
 
 ![food-land-use](food.png)
 
