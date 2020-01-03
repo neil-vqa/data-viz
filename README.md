@@ -1,5 +1,12 @@
 *The dataset, mostly from Makeover Monday, of visualizations presented here are those dataset that got me really interested. Hence, this portfolio exists.*
 
+###### Suspicious coworker...
+
+First attempt in making an infographic. Created using visme.
+
+![handwash](handwash.jpg)
+
+
 ###### Date night with Mekko Charts
 
 Tried something unconventional. Created using plotly.
