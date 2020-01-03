@@ -1,6 +1,6 @@
 *The dataset, mostly from Makeover Monday, of visualizations presented here are those dataset that got me really interested. Hence, this portfolio exists.*
 
-Contact me for projects, comments, & suggestions: **nvq.alino@gmail.com**
+Contact me for projects, comments, and suggestions: **nvq.alino@gmail.com**
 
 
 ###### Suspicious coworker...
