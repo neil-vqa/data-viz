@@ -1,6 +1,13 @@
-*The dataset, mostly from Makeover Monday, of visualizations presented here are those dataset that got me really interested. Hence, this portfolio exists.*
+*The dataset, mostly from Makeover Monday, of visualizations presented here are those dataset which intrigued and fascinated me. Hence, this portfolio exists.*
 
-Contact me for projects, comments, and suggestions: **nvq.alino@gmail.com**
+Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
+
+
+###### The wine on your table. (Part 2)
+
+Created using matplotlib.
+
+![wine map](wine-map.png)
 
 
 ###### Suspicious coworker...
@@ -17,14 +24,14 @@ Tried something unconventional. Created using plotly.
 ![party&date](party.png)
 
 
-###### Food, food, food
+###### Give space for food!
 
 Dataset about food is really fun. Created using plotly.
 
 ![food-land-use](food.png)
 
 
-###### Wine for dinner!
+###### The wine on your table.
 
 Quick viz using plotly (purely).
 
@@ -38,7 +45,7 @@ Inspired by the viz of *@hoskerdu* from Makeover Monday. Created using matplotli
 ![corp-profit](corp-profit.gif)
 
 
-###### Economic Freedom of the World
+###### Economic Freedom of the World (SEA Edition!)
 
 Created using plotly.
 
