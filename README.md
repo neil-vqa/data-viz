@@ -10,13 +10,6 @@ Created using matplotlib.
 ![wine map](wine-map.png)
 
 
-###### Suspicious coworker...
-
-First attempt in making an infographic. Created using visme.
-
-![handwash](handwash.jpg)
-
-
 ###### Date night with Mekko Charts
 
 Tried something unconventional. Created using plotly.
