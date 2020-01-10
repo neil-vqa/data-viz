@@ -152,3 +152,10 @@ A Dash implementation.
 Created using plotly.
 
 ![Expense-Life](expense-life-scatter.png)
+
+
+###### Big Mac Index
+
+Created using chartify.
+
+![Big Mac](b_mac.png)
