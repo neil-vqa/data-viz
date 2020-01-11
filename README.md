@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## Big Mac Index (Part 2)
+
+Created using matplotlib.
+
+![bmac map](bmac_map.png)
+
+
 ## Suspicious coworker...
 
 Created using plotly.
