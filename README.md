@@ -3,35 +3,35 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
-###### Suspicious coworker...
+### Suspicious coworker...
 
 Created using plotly.
 
 ![handwash](handwash.png)
 
 
-###### The wine on your table. (Part 2)
+### The wine on your table. (Part 2)
 
 Created using matplotlib.
 
 ![wine map](wine-map.png)
 
 
-###### Date night with Mekko Charts
+### Date night with Mekko Charts
 
 Tried something unconventional. Created using plotly.
 
 ![party&date](party.png)
 
 
-###### Give space for food!
+### Give space for food!
 
 Dataset about food is really fun. Created using plotly.
 
 ![food-land-use](food.png)
 
 
-###### The wine on your table.
+### The wine on your table.
 
 Quick viz using plotly (purely).
 
