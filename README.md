@@ -12,14 +12,14 @@ Created using matplotlib.
 
 ## Suspicious coworker...
 
-Created using plotly.
+Something that's weird but helpful. Created using plotly.
 
 ![handwash](handwash.png)
 
 
 ## The wine on your table. (Part 2)
 
-Created using matplotlib.
+Revisited the dataset to create a map. Created using matplotlib.
 
 ![wine map](wine-map.png)
 
@@ -40,7 +40,7 @@ Dataset about food is really fun. Created using plotly.
 
 ## The wine on your table.
 
-Quick viz using plotly (purely).
+Quick viz using purely plotly.
 
 ![wine-production](wine-produce.png)
 
@@ -54,28 +54,28 @@ Inspired by the viz of *@hoskerdu* from Makeover Monday. Created using matplotli
 
 ## Economic Freedom of the World (SEA Edition!)
 
-Created using plotly.
+Tried a 'Regional' version of the dataset. Created using plotly.
 
 ![econ-sea](econ-free.png)
 
 
 ## Japanese ONCE on fire!
 
-Created using plotly.
+Countries are selected based on where most of the foreign kpop idols came from. Resorted to Macao and Hong Kong in place of China due to the Great Firewall. Philippines is included since I live there (Haha!). Created using plotly.
 
 ![kpop-rank](kpop.png)
 
 
 ## Are you a Millennial?
 
-Created using plotly.
+Based on Pew Research Center, Millenials are born from 1981 to 1996. Created using plotly.
 
 ![millennials](millennial.png)
 
 
 ## 175 hours of Sunshine
 
-Created using plotly.
+I live in the Philippines. That explains why it's first in the order. Hehe. And why I decided to plot relative to 175 hours. Created using plotly.
 
 ![sun175](sunshine175.png)
 
@@ -89,14 +89,14 @@ Inspired by the viz of *David Wakelin* from Makeover Monday. Created using plotl
 
 ## American Fast Food
 
-Created using plotly.
+Jollibee pa rin! Haha. Created using plotly.
 
 ![fast food](fastfood.png)
 
 
 ## Gasoline vs Diesel
 
-Created using plotly.
+Only a handful of countries does diesel price is higher than gasoline. Created using plotly.
 
 ![Fuel Difference](fuel_prx.png)
 
@@ -114,28 +114,28 @@ Might be useful someday??? Created using Dash.
 
 ## Corruption Perceptions Index
 
-Created using plotly.
+Undoubtedly, in this world, corruption is vital to stay in power. Created using plotly.
 
 ![CPI](cp-index.png)
 
 
 ## Power Generation Sources [(Interactive!)](https://phl-power-gen.herokuapp.com/)
 
-A Dash implementation.
+A Dash implementation. Hmmm...What if I present this to my former ME professors?
 
 ![power](power.png)
 
 
 ## Southeast Asia CO2 emissions
 
-Created using matplotlib.
+Riding the bar chart race trend. Created using matplotlib.
 
 ![emissions](co2_bar_race.gif)
 
 
 ## Philippine Power Plants
 
-Created using plotly.
+Now something related with Mechanical Eng'g. Created using plotly.
 
 ![power plants](power-plant.png)
 
@@ -149,7 +149,7 @@ Created using matplotlib.
 
 ## Commodity Prices [(Interactive!)](https://phl-retail-commodity.herokuapp.com/)
 
-A Dash implementation.
+My first Dash app.
 
 ![commodity](commodity.png)
 
@@ -163,6 +163,6 @@ Created using plotly.
 
 ## Big Mac Index
 
-Created using chartify.
+My first time using chartify (developed by Spotify! wow) for visualizations. Chartify consumes tidy data, and is really helpful in making quick charts.
 
 ![Big Mac](b_mac.png)
