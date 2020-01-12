@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## Planes vs Trains
+
+Created using chartify.
+
+![eu travel ticket](eu_ticket.png)
+
+
 ## Big Mac Index (Part 2)
 
 Created using matplotlib.
