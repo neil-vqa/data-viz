@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## Population cartogram
+
+Finally made a decent cartogram! Cartogram generated using flow-based algorithm (Gastner, M., Seguy, V., & More, P. (2018). Fast flow-based algorithm for creating density-equalizing map projections. Proceedings of the National Academy of Sciences USA, 115:E2156-E2164)
+
+![ph population cartogram](ph_pop_carto.png)
+
+
 ## Planes vs Trains
 
 Created using chartify.
