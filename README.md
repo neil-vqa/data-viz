@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## Food availability in PH
+
+Created using plotly.
+
+![ph food available](ph_food_avail.svg)
+
+
 ## Population cartogram
 
 Finally made a decent cartogram! Cartogram generated using flow-based algorithm (Gastner, M., Seguy, V., & More, P. (2018). Fast flow-based algorithm for creating density-equalizing map projections. Proceedings of the National Academy of Sciences USA, 115:E2156-E2164)
