@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## Looks vs Personality (Part 2)
+
+The WOMEN version of the dataset. Created using plotly.
+
+![asian women partners](partner_women.png)
+
+
 ## Looks vs Personality
 
 Inspired by the viz of *@evamurray* from Makeover Monday. Created using plotly.
@@ -10,7 +17,7 @@ Inspired by the viz of *@evamurray* from Makeover Monday. Created using plotly.
 ![asian men partners](partner.png)
 
 
-## Food availability in PH
+## Food availability in the Philippines
 
 Created using plotly.
 
