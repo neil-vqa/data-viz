@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## Looks vs Personality
+
+Inspired by the viz of *@evamurray* from Makeover Monday. Created using plotly.
+
+![asian men partners](partner.png)
+
+
 ## Food availability in PH
 
 Created using plotly.
