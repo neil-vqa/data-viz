@@ -3,9 +3,20 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## How does your sport compare?
+
+Created using chartify.
+
+![boxing champ](sports-compx.png)
+
+Here is an animated version.
+
+![box  animated](sports-comparison.gif)
+
+
 ## Looks vs Personality (Part 2)
 
-The WOMEN version of the dataset. Created using plotly.
+The WOMEN version. Created using plotly.
 
 ![asian women partners](partner_women.png)
 
