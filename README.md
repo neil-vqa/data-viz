@@ -41,6 +41,10 @@ Finally made a decent cartogram! Cartogram generated using flow-based algorithm 
 
 ![ph population cartogram](ph_pop_carto.png)
 
+Below is a GIF version of the viz.
+
+![pop animated](pop_carto_animated.gif)
+
 
 ## Planes vs Trains
 
