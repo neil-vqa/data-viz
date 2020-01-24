@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## Looks vs Personality (Part 3)
+
+Created an interactive version of the viz. Built with Streamlit.
+
+![partners interactive version](partners_interact.png)
+
+
 ## How does your sport compare?
 
 Created using chartify.
@@ -153,7 +160,7 @@ Only a handful of countries does diesel price is higher than gasoline. Created u
 
 ## View Youtube playlist data [(Interactive!)](https://yt-data-view.herokuapp.com/)
 
-Might be useful someday??? Created using Dash.
+Try using this with your favorite YT playlist! Created using Dash.
 
 ![top](yt1.png)
 
