@@ -3,7 +3,7 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
-## Looks vs Personality (Part 3)
+## Looks vs Personality (Part 3) [(Interactive!)](https://partner-survey.herokuapp.com/)
 
 Created an interactive version of the viz. Built with Streamlit.
 
