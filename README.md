@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## When was the last time your favorite volcano erupted?
+
+Built with Streamlit.
+
+![eruption](volcano_shot.png)
+
+
 ## Looks vs Personality (Part 3) [(Interactive!)](https://partner-survey.herokuapp.com/)
 
 Created an interactive version of the viz. Built with Streamlit.
