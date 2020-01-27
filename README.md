@@ -3,16 +3,16 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
-## When was the last time your favorite volcano erupted?
+## When was the last time your favorite volcano erupted? [(Interactive!)](https://volcano-erupts.herokuapp.com/)
 
-Built with Streamlit.
+[Click me! I'll take you to the app.](https://volcano-erupts.herokuapp.com/) Built with Streamlit.
 
 ![eruption](volcano_shot.png)
 
 
 ## Looks vs Personality (Part 3) [(Interactive!)](https://partner-survey.herokuapp.com/)
 
-Created an interactive version of the viz. Built with Streamlit.
+[Click me! I'll take you to the app.](https://partner-survey.herokuapp.com/) Created an interactive version of the viz. Built with Streamlit.
 
 ![partners interactive version](partners_interact.png)
 
@@ -167,7 +167,7 @@ Only a handful of countries does diesel price is higher than gasoline. Created u
 
 ## View Youtube playlist data [(Interactive!)](https://yt-data-view.herokuapp.com/)
 
-Try using this with your favorite YT playlist! Created using Dash.
+Try using this with your favorite YT playlist! [Click me! I'll take you to the app.](https://yt-data-view.herokuapp.com/)  Created using Dash.
 
 ![top](yt1.png)
 
@@ -185,7 +185,7 @@ Undoubtedly, in this world, corruption is vital to stay in power. Created using 
 
 ## Power Generation Sources [(Interactive!)](https://phl-power-gen.herokuapp.com/)
 
-A Dash implementation. Hmmm...What if I present this to my former ME professors?
+A Dash implementation. [Click me! I'll take you to the app.](https://phl-power-gen.herokuapp.com/) 
 
 ![power](power.png)
 
@@ -213,7 +213,7 @@ Created using matplotlib.
 
 ## Commodity Prices [(Interactive!)](https://phl-retail-commodity.herokuapp.com/)
 
-My first Dash app.
+My first Dash app. [Click me! I'll take you to the app.](https://phl-retail-commodity.herokuapp.com/) 
 
 ![commodity](commodity.png)
 
