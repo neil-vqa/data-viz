@@ -5,14 +5,14 @@ Contact me for projects, comments, reactions, and suggestions: **nvqa.business@g
 
 ## When was the last time your favorite volcano erupted? [(Interactive!)](https://volcano-erupts.herokuapp.com/)
 
-[Click me! I'll take you to the app.](https://volcano-erupts.herokuapp.com/) Built with Streamlit.
+*Pacific Ring of Fire* is no joke. [Click me! I'll take you to the app.](https://volcano-erupts.herokuapp.com/) Built with Streamlit.
 
 ![eruption](volcano_shot.png)
 
 
 ## Looks vs Personality (Part 3) [(Interactive!)](https://partner-survey.herokuapp.com/)
 
-[Click me! I'll take you to the app.](https://partner-survey.herokuapp.com/) Created an interactive version of the viz. Built with Streamlit.
+Created an interactive version of the viz. [Click me! I'll take you to the app.](https://partner-survey.herokuapp.com/) Built with Streamlit.
 
 ![partners interactive version](partners_interact.png)
 
