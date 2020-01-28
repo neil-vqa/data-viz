@@ -3,6 +3,12 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## Another major event early this year. [(Interactive!)](https://wuhan-ncov.herokuapp.com/)
+
+I'm actually updating this manually. No available API to fetch some realtime data yet. [Click me! I'll take you to the app.](https://wuhan-ncov.herokuapp.com/)
+
+![ncov cases](ncov_shot.png)
+
 ## When was the last time your favorite volcano erupted? [(Interactive!)](https://volcano-erupts.herokuapp.com/)
 
 *Pacific Ring of Fire* is no joke. [Click me! I'll take you to the app.](https://volcano-erupts.herokuapp.com/) Built with Streamlit.
