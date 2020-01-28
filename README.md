@@ -9,6 +9,14 @@ I'm actually updating this manually. No available API to fetch some realtime dat
 
 ![ncov cases](ncov_shot.png)
 
+
+## Choropleth collection [(Interactive!)](https://phl-choropleth.herokuapp.com/)
+
+Finally conquered plotly mapbox choropleths! [Click me! I'll take you to the app.](https://phl-choropleth.herokuapp.com/)
+
+![philippine choropleth](phl_choro.png)
+
+
 ## When was the last time your favorite volcano erupted? [(Interactive!)](https://volcano-erupts.herokuapp.com/)
 
 *Pacific Ring of Fire* is no joke. [Click me! I'll take you to the app.](https://volcano-erupts.herokuapp.com/) Built with Streamlit.
