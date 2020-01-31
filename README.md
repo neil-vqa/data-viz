@@ -5,28 +5,28 @@ Contact me for projects, comments, reactions, and suggestions: **nvqa.business@g
 
 ## Another major event early this year. [(Interactive!)](https://wuhan-ncov.herokuapp.com/)
 
-I'm actually updating this manually. No available API to fetch some realtime data yet. [Click me! I'll take you to the app.](https://wuhan-ncov.herokuapp.com/)
+I'm actually updating this manually. No available API to fetch some realtime data yet. [Click me! I'll take you to the web app.](https://wuhan-ncov.herokuapp.com/)
 
 ![ncov cases](ncov_shot.png)
 
 
 ## Choropleth collection [(Interactive!)](https://phl-choropleth.herokuapp.com/)
 
-Finally conquered plotly mapbox choropleths! [Click me! I'll take you to the app.](https://phl-choropleth.herokuapp.com/)
+Finally conquered plotly mapbox choropleths! [Click me! I'll take you to the web app.](https://phl-choropleth.herokuapp.com/)
 
 ![philippine choropleth](phl_choro.png)
 
 
 ## When was the last time your favorite volcano erupted? [(Interactive!)](https://volcano-erupts.herokuapp.com/)
 
-*Pacific Ring of Fire* is no joke. [Click me! I'll take you to the app.](https://volcano-erupts.herokuapp.com/) Built with Streamlit.
+*Pacific Ring of Fire* is no joke. [Click me! I'll take you to the web app.](https://volcano-erupts.herokuapp.com/) Built with Streamlit.
 
 ![eruption](volcano_shot.png)
 
 
 ## Looks vs Personality (Part 3) [(Interactive!)](https://partner-survey.herokuapp.com/)
 
-Created an interactive version of the viz. [Click me! I'll take you to the app.](https://partner-survey.herokuapp.com/) Built with Streamlit.
+Created an interactive version of the viz. [Click me! I'll take you to the web app.](https://partner-survey.herokuapp.com/) Built with Streamlit.
 
 ![partners interactive version](partners_interact.png)
 
@@ -181,7 +181,7 @@ Only a handful of countries does diesel price is higher than gasoline. Created u
 
 ## View Youtube playlist data [(Interactive!)](https://yt-data-view.herokuapp.com/)
 
-Try using this with your favorite YT playlist! [Click me! I'll take you to the app.](https://yt-data-view.herokuapp.com/)  Created using Dash.
+Try using this with your favorite YT playlist! [Click me! I'll take you to the web app.](https://yt-data-view.herokuapp.com/)  Created using Dash.
 
 ![top](yt1.png)
 
@@ -199,7 +199,7 @@ Undoubtedly, in this world, corruption is vital to stay in power. Created using 
 
 ## Power Generation Sources [(Interactive!)](https://phl-power-gen.herokuapp.com/)
 
-A Dash implementation. [Click me! I'll take you to the app.](https://phl-power-gen.herokuapp.com/) 
+A Dash implementation. [Click me! I'll take you to the web app.](https://phl-power-gen.herokuapp.com/) 
 
 ![power](power.png)
 
@@ -227,7 +227,7 @@ Created using matplotlib.
 
 ## Commodity Prices [(Interactive!)](https://phl-retail-commodity.herokuapp.com/)
 
-My first Dash app. [Click me! I'll take you to the app.](https://phl-retail-commodity.herokuapp.com/) 
+My first Dash app. [Click me! I'll take you to the web app.](https://phl-retail-commodity.herokuapp.com/) 
 
 ![commodity](commodity.png)
 
@@ -241,6 +241,6 @@ Created using plotly.
 
 ## Big Mac Index
 
-My first time using chartify (developed by Spotify! wow) for visualizations. Chartify consumes tidy data, and is really helpful in making quick charts.
+My first time using chartify (developed by Spotify! wow) for visualizations.
 
 ![Big Mac](b_mac.png)
