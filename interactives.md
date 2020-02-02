@@ -1,7 +1,7 @@
 ---
-title: Interactive
-layout: jekyll-theme-cayman
-filename: interactives.md
+layout: page
+title: Interactive Vizzes
+permalink: /interactives/
 ---
 
 ### this is interactive viz page
