@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Interactive Vizzes"
-permalink: /interactives.md
+permalink: /
 ---
 
 ### this is interactive viz page
