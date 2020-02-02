@@ -1,6 +1,6 @@
 ---
 title: Interactive
-layout: page
+layout: jekyll-theme-cayman
 filename: interactives.md
 ---
 
