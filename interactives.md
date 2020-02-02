@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interactive Vizzes
+title: "Interactive Vizzes"
 permalink: /interactives.md
 ---
 
