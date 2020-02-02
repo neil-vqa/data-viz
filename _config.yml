@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Visible Data
 description: Data visualizations by nvqa
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
