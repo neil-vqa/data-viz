@@ -1,4 +1,4 @@
-*The dataset, mostly from Makeover Monday, of visualizations presented here are dataset which intrigued and fascinated me. Hence, this portfolio exists.*
+*The dataset, mostly from Makeover Monday, of visualizations presented here are dataset which intrigued and fascinated me.*
 
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
