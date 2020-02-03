@@ -5,3 +5,12 @@ description: Data visualizations by nvqa
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+links:
+  section_1:
+    - title: Home
+      url: /
+      key_trigger: 1
+    - title: my posts
+      url: /interactive
+      key_trigger: 2
