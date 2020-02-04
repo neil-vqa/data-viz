@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## How wealthy is your country?
+
+Created using rawgraphs.
+
+![wealth of nations](wealth_pack.png)
+
+
 ## Another major event early this year. [(Interactive!)](https://wuhan-ncov.herokuapp.com/)
 
 I'm actually updating this manually. No available free API to fetch some realtime data yet. [Click me! I'll take you to the web app.](https://wuhan-ncov.herokuapp.com/)
