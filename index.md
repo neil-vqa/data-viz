@@ -134,7 +134,7 @@ Dataset about food is really fun. Created using plotly.
 
 Quick viz using purely plotly.
 
-<iframe id="igraph" scrolling="no" style="border: none;" seamless="seamless" frameborder="0" src="https://neil-vqa.github.io/wine-production-viz/" height="480" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border: none;" seamless="seamless" frameborder="0" src="https://neil-vqa.github.io/wine-production-viz/" height="550" width="70%"></iframe>
 
 
 ## Apple's Supremacy
