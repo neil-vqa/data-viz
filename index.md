@@ -79,7 +79,7 @@ Created using plotly.
 
 ## Population cartogram
 
-Finally made a decent cartogram! Cartogram generated using flow-based algorithm (Gastner, M., Seguy, V., & More, P. (2018). Fast flow-based algorithm for creating density-equalizing map projections. Proceedings of the National Academy of Sciences USA, 115:E2156-E2164)
+Finally made a decent cartogram! Cartogram generated using flow-based algorithm (Gastner, M., Seguy, V., & More, P. (2018). Fast flow-based algorithm for creating density-equalizing map projections. Proceedings of the National Academy of Sciences USA, 115:E2156-E2164).
 
 ![ph population cartogram](ph_pop_carto.png)
 
@@ -134,7 +134,7 @@ Dataset about food is really fun. Created using plotly.
 
 Quick viz using purely plotly.
 
-<iframe id="igraph" scrolling="yes" style="border: none;" seamless="seamless" frameborder="0" src="https://neil-vqa.github.io/wine-production-viz/" height="550" width="100%" marginheight="0" marginwidth="0"></iframe>
+<iframe id="igraph" scrolling="yes" style="border: none;" seamless="seamless" frameborder="0" src="https://neil-vqa.github.io/wine-production-viz/" height="560" width="100%" marginheight="0" marginwidth="0"></iframe>
 
 
 ## Apple's Supremacy
