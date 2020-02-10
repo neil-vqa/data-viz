@@ -6,7 +6,9 @@ Contact me for projects, comments, reactions, and suggestions: **nvqa.business@g
 ## SEA Population density map
 
 Check out this embedded map created with datawrapper.
+
 <iframe title="Singapore has the highest population density in SEA. " aria-label="South-East Asia choropleth map" src="//datawrapper.dwcdn.net/Pdum2/1/" scrolling="no" frameborder="0" style="border: none;" width="560" height="490"></iframe>
+
 
 ## How wealthy is your country?
 
@@ -133,6 +135,8 @@ Dataset about food is really fun. Created using plotly.
 Quick viz using purely plotly.
 
 ![wine-production](wine-produce.png)
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://neil-vqa.github.io/wine-production-viz/" height="525" width="100%"></iframe>
 
 
 ## Apple's Supremacy
