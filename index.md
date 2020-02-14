@@ -1,6 +1,6 @@
 *The dataset, mostly from Makeover Monday, of visualizations presented here are dataset which intrigued and fascinated me.*
 
-Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
+Contact me for projects, comments, reactions, complaints, and/or suggestions: [**Neil VQA**](mailto:nvqa.business@gmail.com)
 
 
 ## A treemap of PH population.
