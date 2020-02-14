@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, and suggestions: **nvqa.business@gmail.com**
 
 
+## A treemap of PH population.
+
+Created using rawgraphs.
+
+![ph population treemap](treemap_ph.png)
+
+
 ## SEA Population density map
 
 Check out this embedded map created with datawrapper.
