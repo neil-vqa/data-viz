@@ -3,11 +3,11 @@
 Contact me for projects, comments, reactions, complaints, and/or suggestions: [**Neil VQA**](mailto:nvqa.business@gmail.com)
 
 
-## Market Movers Dashboard
+## Market Movers Dashboard [(Interactive!)](https://stock-monitor-dash.herokuapp.com/)
 
-A glance of market leaders of the day.
+A glance of market leaders of the day. [Click me! I'll take you to the web app.](https://stock-monitor-dash.herokuapp.com/)
 
-<iframe id="stock-dash" scrolling="yes" style="border: none;" seamless="seamless" frameborder="0" src="https://stock-monitor-dash.herokuapp.com/" height="560" width="100%" marginheight="0" marginwidth="0"></iframe>
+![stock_dashboard](stock_dash_shot.png)
 
 
 ## A treemap of PH population.
