@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, complaints, and/or suggestions: [**Neil VQA**](mailto:nvqa.business@gmail.com)
 
 
+## Market Movers Dashboard
+
+A glance of market leaders of the day.
+
+<iframe id="stock-dash" scrolling="yes" style="border: none;" seamless="seamless" frameborder="0" src="https://stock-monitor-dash.herokuapp.com/" height="560" width="100%" marginheight="0" marginwidth="0"></iframe>
+
+
 ## A treemap of PH population.
 
 Created using rawgraphs.
