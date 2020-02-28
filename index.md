@@ -31,13 +31,6 @@ Created using rawgraphs.
 ![wealth of nations](wealth_pack.png)
 
 
-## Another major event early this year. [(Interactive!)](https://wuhan-ncov.herokuapp.com/)
-
-I'm actually updating this manually. No available free API to fetch some realtime data yet. [Click me! I'll take you to the web app.](https://wuhan-ncov.herokuapp.com/)
-
-![ncov cases](ncov_shot.png)
-
-
 ## Choropleth collection [(Interactive!)](https://phl-choropleth.herokuapp.com/)
 
 Finally conquered plotly mapbox choropleths! [Click me! I'll take you to the web app.](https://phl-choropleth.herokuapp.com/)
