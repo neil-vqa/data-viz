@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, complaints, and/or suggestions: [**Neil VQA**](mailto:nvqa.business@gmail.com)
 
 
+## Airbnb Tokyo [(Interactive!)](https://airbnb-tokyo.herokuapp.com/)
+
+Created using Dash. [Click me! I'll take you to the web app.](https://airbnb-tokyo.herokuapp.com/)
+
+![airbnb tokyo](airbnb_shot.png)
+
+
 ## Catching sunshine [(Interactive!)](https://sunshine-dash-app.herokuapp.com/)
 
 Explore sunlight exposure around the globe. [Click me! I'll take you to the web app.](https://sunshine-dash-app.herokuapp.com/)
@@ -167,7 +174,7 @@ Tried a 'Regional' version of the dataset. Created using plotly.
 
 ## Japanese ONCE on fire!
 
-Countries are selected based on where most of the foreign kpop idols came from. Resorted to Macao and Hong Kong in place of China due to the Great Firewall. Philippines is included since I live there (Haha!). Created using plotly.
+Countries are selected based on where most of the foreign kpop idols came from. Resorted to Macao and Hong Kong in place of China due to the Great Firewall. Philippines is included since I live there. Created using plotly.
 
 ![kpop-rank](kpop.png)
 
