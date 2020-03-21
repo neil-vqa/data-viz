@@ -3,11 +3,13 @@
 Contact me for projects, comments, reactions, complaints, and/or suggestions: [**Neil VQA**](mailto:nvqa.business@gmail.com)
 
 
-## Secured Dash app demo [(Interactive!)](https://orange-dash.herokuapp.com/)
+## Secured Dash app [(Interactive!)](https://orange-dash.herokuapp.com/)
 
-A demo of a Dash app with login system. [Click me! I'll take you to the web app.](https://orange-dash.herokuapp.com/)
+Demo of a Dash app with login system. [Click me! I'll take you to the web app.](https://orange-dash.herokuapp.com/)
 
-![orange app](orange-dash.png)
+![orange1 app](ora-1.png)
+
+![orange2 app](ora-2.png)
 
 
 ## COVID-19 [(Interactive!)](https://covid19-dashboard.herokuapp.com/home)
