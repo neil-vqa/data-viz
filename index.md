@@ -5,7 +5,9 @@ Contact me for projects, comments, reactions, complaints, and/or suggestions: [*
 
 ## Secured Dash app [(Interactive!)](https://orange-dash.herokuapp.com/)
 
-Demo of a Dash app with login system. [Click me! I'll take you to the web app.](https://orange-dash.herokuapp.com/)
+Demo of a Dash app with login system to secure your portfolio. [Click me! I'll take you to the web app.](https://orange-dash.herokuapp.com/)
+
+![orange0 app](ora-log.png)
 
 ![orange1 app](ora-1.png)
 
