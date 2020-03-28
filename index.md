@@ -3,7 +3,18 @@
 Contact me for projects, comments, reactions, complaints, and/or suggestions: [**Neil VQA**](mailto:nvqa.business@gmail.com)
 
 
-## Secured Dash app [(Interactive!)](https://orange-dash.herokuapp.com/)
+## Report-style dashboard [(Interactive!)](https://executive-desk.herokuapp.com/)
+
+Created using Plotly Dash. [Click me! I'll take you to the web app.](https://executive-desk.herokuapp.com/)
+
+![executive1](exec-1.png)
+
+![executive2](exec-2.png)
+
+![executive3](exec-3.png)
+
+
+## Secure your dashboard [(Interactive!)](https://orange-dash.herokuapp.com/)
 
 Demo of a Dash app with login system to secure your portfolio. [Click me! I'll take you to the web app.](https://orange-dash.herokuapp.com/)
 
