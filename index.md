@@ -3,6 +3,13 @@
 Contact me for projects, comments, reactions, complaints, and/or suggestions: [**Neil VQA**](mailto:nvqa.business@gmail.com)
 
 
+## Volcano Eruption Explorer [(Interactive!)](https://eruption-explorer.herokuapp.com/)
+
+One of the most satifying projects I've done. *Pacific Ring of Fire* is no joke. [Click me! I'll take you to the web app.](https://eruption-explorer.herokuapp.com/)
+
+![xplorer](erupt-xplor.png)
+
+
 ## Report-style dashboard [(Interactive!)](https://executive-desk.herokuapp.com/)
 
 Created using Plotly Dash. [Click me! I'll take you to the web app.](https://executive-desk.herokuapp.com/)
@@ -79,13 +86,6 @@ Created using rawgraphs.
 Finally conquered plotly mapbox choropleths! [Click me! I'll take you to the web app.](https://phl-choropleth.herokuapp.com/)
 
 ![philippine choropleth](phl_choro.png)
-
-
-## When was the last time your favorite volcano erupted? [(Interactive!)](https://volcano-erupts.herokuapp.com/)
-
-*Pacific Ring of Fire* is no joke. [Click me! I'll take you to the web app.](https://volcano-erupts.herokuapp.com/) Built with Streamlit.
-
-![eruption](volcano_shot.png)
 
 
 ## Looks vs Personality (Part 3) [(Interactive!)](https://partner-survey.herokuapp.com/)
