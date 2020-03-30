@@ -5,7 +5,7 @@ Contact me for projects, comments, reactions, complaints, and/or suggestions: [*
 
 ## Volcano Eruption Explorer [(Interactive!)](https://eruption-explorer.herokuapp.com/)
 
-One of the most satifying projects I've done. *Pacific Ring of Fire* is no joke. [Click me! I'll take you to the web app.](https://eruption-explorer.herokuapp.com/)
+One of the most satifying map projects I've done. *Pacific Ring of Fire* is no joke. [Click me! I'll take you to the web app.](https://eruption-explorer.herokuapp.com/)
 
 ![xplorer](erupt-xplor.png)
 
@@ -53,25 +53,11 @@ Explore sunlight exposure around the globe. [Click me! I'll take you to the web 
 ![sunshine dash view](sunshine-dash.png)
 
 
-## A treemap of PH population.
-
-Created using rawgraphs.
-
-![ph population treemap](treemap_ph.png)
-
-
 ## Market Movers Dashboard [(Interactive!)](https://stock-dash-flat-ver.herokuapp.com/)
 
 A glance of market leaders of the day. [Click me! I'll take you to the web app.](https://stock-dash-flat-ver.herokuapp.com/)
 
 ![stock_dashboard](stock_dash_shot.png)
-
-
-## SEA Population density map
-
-Check out this embedded map created with datawrapper.
-
-<iframe title="Singapore has the highest population density in SEA. " aria-label="South-East Asia choropleth map" src="//datawrapper.dwcdn.net/Pdum2/1/" scrolling="no" frameborder="0" style="border: none;" width="560" height="490"></iframe>
 
 
 ## How wealthy is your country?
@@ -83,7 +69,7 @@ Created using rawgraphs.
 
 ## Choropleth collection [(Interactive!)](https://phl-choropleth.herokuapp.com/)
 
-Finally conquered plotly mapbox choropleths! [Click me! I'll take you to the web app.](https://phl-choropleth.herokuapp.com/)
+Plotly mapbox choropleths! [Click me! I'll take you to the web app.](https://phl-choropleth.herokuapp.com/)
 
 ![philippine choropleth](phl_choro.png)
 
@@ -145,7 +131,7 @@ Created using chartify.
 ![eu travel ticket](eu_ticket.png)
 
 
-## Big Mac Index (Part 2)
+## Big Mac Index
 
 Created using matplotlib.
 
@@ -159,7 +145,7 @@ Something that's weird but helpful. Created using plotly.
 ![handwash](handwash.png)
 
 
-## The wine on your table. (Part 2)
+## The wine. (Part 2)
 
 Revisited the dataset to create a map. Created using matplotlib.
 
@@ -180,7 +166,7 @@ Dataset about food is really fun. Created using plotly.
 ![food-land-use](food.png)
 
 
-## The wine on your table.
+## The wine.
 
 Quick viz using purely plotly.
 
@@ -196,7 +182,7 @@ Inspired by the viz of *@hoskerdu* from Makeover Monday. Created using matplotli
 
 ## Economic Freedom of the World (SEA Edition!)
 
-Tried a 'Regional' version of the dataset. Created using plotly.
+Made a 'Regional' version of the dataset. Created using plotly.
 
 ![econ-sea](econ-free.png)
 
@@ -217,7 +203,7 @@ Based on Pew Research Center, Millenials are born from 1981 to 1996. Created usi
 
 ## 175 hours of Sunshine
 
-I live in the Philippines. That explains why it's first in the order. Hehe. And why I decided to plot relative to 175 hours. Created using plotly.
+I live in the Philippines. That explains why it's first in the order. And why I decided to plot relative to 175 hours. Created using plotly.
 
 ![sun175](sunshine175.png)
 
@@ -234,6 +220,13 @@ Inspired by the viz of *David Wakelin* from Makeover Monday. Created using plotl
 Jollibee pa rin! Haha. Created using plotly.
 
 ![fast food](fastfood.png)
+
+
+## A treemap of PH population.
+
+Created using rawgraphs.
+
+![ph population treemap](treemap_ph.png)
 
 
 ## Gasoline vs Diesel
@@ -263,7 +256,7 @@ Undoubtedly, in this world, corruption is vital to stay in power. Created using 
 
 ## Power Generation Sources [(Interactive!)](https://phl-power-gen.herokuapp.com/)
 
-A Dash implementation. [Click me! I'll take you to the web app.](https://phl-power-gen.herokuapp.com/) 
+Another Dash project. [Click me! I'll take you to the web app.](https://phl-power-gen.herokuapp.com/) 
 
 ![power](power.png)
 
@@ -294,17 +287,3 @@ Created using matplotlib.
 My first Dash app. [Click me! I'll take you to the web app.](https://phl-retail-commodity.herokuapp.com/) 
 
 ![commodity](commodity.png)
-
-
-## Health Expenditure & Life Expectancy
-
-Created using plotly.
-
-![Expense-Life](expense-life-scatter.png)
-
-
-## Big Mac Index
-
-My first time using chartify (developed by Spotify! wow) for visualizations.
-
-![Big Mac](b_mac.png)
