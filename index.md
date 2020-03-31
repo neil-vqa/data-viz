@@ -1,6 +1,6 @@
-Neil Van Alino, *Data Visualization Specialist, Python Developer*
+Neil Van Alino | *Data Visualization Specialist, Python Developer*
 
-Contact me for projects, comments, reactions, complaints, and/or suggestions: [**Business Email**](mailto:nvqa.business@gmail.com)
+Contact me for projects, comments, reactions, complaints, and/or suggestions: [**nvqa.business (business email)**](mailto:nvqa.business@gmail.com)
 
 
 ## Volcano Eruption Explorer [(Interactive!)](https://eruption-explorer.herokuapp.com/)
