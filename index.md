@@ -5,7 +5,7 @@ I am a Mechanical Engineer turned into a DataViz Specialist from the Philippines
 Contact me for projects, comments, reactions, complaints, and/or suggestions: [**nvqa.business (business email)**](mailto:nvqa.business@gmail.com)
 
 
-- [Web apps & dashboards](#web-apps-&-dashboards)
+- [Web apps and dashboards](#web-apps-and-dashboards)
 
 - [Static Visualizations](#static-visualizations)
 
