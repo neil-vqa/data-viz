@@ -1,11 +1,13 @@
-Neil Van Alino | *Data Visualization Specialist, Python Developer*
+Neil Van Alino, *Data Visualization Specialist, Python Developer*
+
+I am a Mechanical Engineer turned into a DataViz Specialist from the Philippines. It's not that I abandoned engineering but rather I have found a new passion that stem from the critical, disciplined, and holistic mindset molded by engineering.
 
 Contact me for projects, comments, reactions, complaints, and/or suggestions: [**nvqa.business (business email)**](mailto:nvqa.business@gmail.com)
 
 
 ## Volcano Eruption Explorer [(Interactive!)](https://eruption-explorer.herokuapp.com/)
 
-One of the most satifying map projects I've done. *Pacific Ring of Fire* is no joke. [Click me! I'll take you to the web app.](https://eruption-explorer.herokuapp.com/)
+One of the most satifying map projects I've done. *Pacific Ring of Fire* is no joke. [Click me! I'll take you to the web app.](https://eruption-explorer.herokuapp.com/) Created using Dash.
 
 ![xplorer](erupt-xplor.png)
 
