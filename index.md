@@ -10,7 +10,7 @@ Contact me for projects, comments, reactions, complaints, and/or suggestions: [*
 - [Static Visualizations](#static-visualizations)
 
 
-# Web apps & dashboards
+# Web apps and dashboards
 
 
 ## Volcano Eruption Explorer [(Interactive!)](https://eruption-explorer.herokuapp.com/)
