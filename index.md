@@ -5,6 +5,14 @@ I am a Mechanical Engineer turned into a DataViz Specialist from the Philippines
 Contact me for projects, comments, reactions, complaints, and/or suggestions: [**nvqa.business (business email)**](mailto:nvqa.business@gmail.com)
 
 
+[# Web apps & Dashboards](#web-dash)
+
+[# Static Vizzes](#static-vizzes)
+
+
+# Web apps & Dashboards
+
+
 ## Volcano Eruption Explorer [(Interactive!)](https://eruption-explorer.herokuapp.com/)
 
 One of the most satifying map projects I've done. *Pacific Ring of Fire* is no joke. [Click me! I'll take you to the web app.](https://eruption-explorer.herokuapp.com/) Created using Dash.
@@ -62,13 +70,6 @@ A glance of market leaders of the day. [Click me! I'll take you to the web app.]
 ![stock_dashboard](stock_dash_shot.png)
 
 
-## How wealthy is your country?
-
-Created using rawgraphs.
-
-![wealth of nations](wealth_pack.png)
-
-
 ## Choropleth collection [(Interactive!)](https://phl-choropleth.herokuapp.com/)
 
 Plotly mapbox choropleths! [Click me! I'll take you to the web app.](https://phl-choropleth.herokuapp.com/)
@@ -81,6 +82,34 @@ Plotly mapbox choropleths! [Click me! I'll take you to the web app.](https://phl
 Created an interactive version of the viz. [Click me! I'll take you to the web app.](https://partner-survey.herokuapp.com/) Built with Streamlit.
 
 ![partners interactive version](partners_interact.png)
+
+
+## View Youtube playlist data [(Interactive!)](https://yt-data-view.herokuapp.com/)
+
+Try using this with your favorite YT playlist! [Click me! I'll take you to the web app.](https://yt-data-view.herokuapp.com/)  Created using Dash.
+
+![top](yt1.png)
+
+![mid](yt2.png)
+
+![bot](yt3.png)
+
+
+## Commodity Prices [(Interactive!)](https://phl-retail-commodity.herokuapp.com/)
+
+My first Dash app. [Click me! I'll take you to the web app.](https://phl-retail-commodity.herokuapp.com/) 
+
+![commodity](commodity.png)
+
+
+# Static Vizzes
+
+
+## How wealthy is your country?
+
+Created using rawgraphs.
+
+![wealth of nations](wealth_pack.png)
 
 
 ## How does your sport compare?
@@ -238,17 +267,6 @@ Only a handful of countries does diesel price is higher than gasoline. Created u
 ![Fuel Difference](fuel_prx.png)
 
 
-## View Youtube playlist data [(Interactive!)](https://yt-data-view.herokuapp.com/)
-
-Try using this with your favorite YT playlist! [Click me! I'll take you to the web app.](https://yt-data-view.herokuapp.com/)  Created using Dash.
-
-![top](yt1.png)
-
-![mid](yt2.png)
-
-![bot](yt3.png)
-
-
 ## Corruption Perceptions Index
 
 Undoubtedly, in this world, corruption is vital to stay in power. Created using plotly.
@@ -282,10 +300,3 @@ Now something related with Mechanical Eng'g. Created using plotly.
 Created using matplotlib.
 
 ![Choro-health](health_choro_map_modx.png)
-
-
-## Commodity Prices [(Interactive!)](https://phl-retail-commodity.herokuapp.com/)
-
-My first Dash app. [Click me! I'll take you to the web app.](https://phl-retail-commodity.herokuapp.com/) 
-
-![commodity](commodity.png)
