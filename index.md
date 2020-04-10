@@ -5,12 +5,12 @@ I am a Mechanical Engineer turned into a DataViz Specialist from the Philippines
 Contact me for projects, comments, reactions, complaints, and/or suggestions: [**nvqa.business (business email)**](mailto:nvqa.business@gmail.com)
 
 
-[# Web apps & Dashboards](#web-dash)
+- [Web apps & dashboards](#web-dash)
 
-[# Static Vizzes](#static-vizzes)
+- [Static Vizzes](#static-vizzes)
 
 
-# Web apps & Dashboards
+# Web apps & dashboards
 
 
 ## Volcano Eruption Explorer [(Interactive!)](https://eruption-explorer.herokuapp.com/)
