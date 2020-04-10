@@ -7,7 +7,7 @@ Contact me for projects, comments, reactions, complaints, and/or suggestions: [*
 
 - [Web apps & dashboards](#web-dash)
 
-- [Static Vizzes](#static-vizzes)
+- [Static Visualizations](#static-vizzes)
 
 
 # Web apps & dashboards
@@ -20,9 +20,9 @@ One of the most satifying map projects I've done. *Pacific Ring of Fire* is no j
 ![xplorer](erupt-xplor.png)
 
 
-## Report-style dashboard [(Interactive!)](https://executive-desk.herokuapp.com/)
+## Document-styled dashboard [(Interactive!)](https://executive-desk.herokuapp.com/)
 
-Created using Plotly Dash. [Click me! I'll take you to the web app.](https://executive-desk.herokuapp.com/)
+Data from data.world. Created using Plotly Dash. [Click me! I'll take you to the web app.](https://executive-desk.herokuapp.com/)
 
 ![executive1](exec-1.png)
 
@@ -33,7 +33,7 @@ Created using Plotly Dash. [Click me! I'll take you to the web app.](https://exe
 
 ## Secure your dashboard [(Interactive!)](https://orange-dash.herokuapp.com/)
 
-Demo of a Dash app with login system to secure your portfolio. [Click me! I'll take you to the web app.](https://orange-dash.herokuapp.com/)
+Demo of a Dash app with login system to secure your sensitive analytics. [Click me! I'll take you to the web app.](https://orange-dash.herokuapp.com/)
 
 ![orange0 app](ora-log.png)
 
@@ -44,28 +44,28 @@ Demo of a Dash app with login system to secure your portfolio. [Click me! I'll t
 
 ## COVID-19 [(Interactive!)](https://covid19-dashboard.herokuapp.com/home)
 
-Monitoring the very first pandemic caused by a coronavirus. [Click me! I'll take you to the web app.](https://covid19-dashboard.herokuapp.com/home)
+Monitoring the very first pandemic caused by a coronavirus. [Click me! I'll take you to the web app.](https://covid19-dashboard.herokuapp.com/home) Created using Dash.
 
 ![covid19](covid-shot.png)
 
 
 ## Airbnb Tokyo [(Interactive!)](https://airbnb-tokyo.herokuapp.com/)
 
-Created using Dash. [Click me! I'll take you to the web app.](https://airbnb-tokyo.herokuapp.com/)
+Playing with Airbnb data. Created using Dash. [Click me! I'll take you to the web app.](https://airbnb-tokyo.herokuapp.com/)
 
 ![airbnb tokyo](airbnb_shot.png)
 
 
 ## Catching sunshine [(Interactive!)](https://sunshine-dash-app.herokuapp.com/)
 
-Explore sunlight exposure around the globe. [Click me! I'll take you to the web app.](https://sunshine-dash-app.herokuapp.com/)
+Explore how much sunlight exposure a major city has. [Click me! I'll take you to the web app.](https://sunshine-dash-app.herokuapp.com/) Created using Dash.
 
 ![sunshine dash view](sunshine-dash.png)
 
 
 ## Market Movers Dashboard [(Interactive!)](https://stock-dash-flat-ver.herokuapp.com/)
 
-A glance of market leaders of the day. [Click me! I'll take you to the web app.](https://stock-dash-flat-ver.herokuapp.com/)
+A glance of the market leaders of the day. [Click me! I'll take you to the web app.](https://stock-dash-flat-ver.herokuapp.com/) Created using Dash.
 
 ![stock_dashboard](stock_dash_shot.png)
 
@@ -95,14 +95,21 @@ Try using this with your favorite YT playlist! [Click me! I'll take you to the w
 ![bot](yt3.png)
 
 
+## Power Generation Sources [(Interactive!)](https://phl-power-gen.herokuapp.com/)
+
+Some ME-related viz. [Click me! I'll take you to the web app.](https://phl-power-gen.herokuapp.com/) 
+
+![power](power.png)
+
+
 ## Commodity Prices [(Interactive!)](https://phl-retail-commodity.herokuapp.com/)
 
-My first Dash app. [Click me! I'll take you to the web app.](https://phl-retail-commodity.herokuapp.com/) 
+Explore food prices in this Dash app. [Click me! I'll take you to the web app.](https://phl-retail-commodity.herokuapp.com/) 
 
 ![commodity](commodity.png)
 
 
-# Static Vizzes
+# Static Visualizations
 
 
 ## How wealthy is your country?
@@ -272,13 +279,6 @@ Only a handful of countries does diesel price is higher than gasoline. Created u
 Undoubtedly, in this world, corruption is vital to stay in power. Created using plotly.
 
 ![CPI](cp-index.png)
-
-
-## Power Generation Sources [(Interactive!)](https://phl-power-gen.herokuapp.com/)
-
-Another Dash project. [Click me! I'll take you to the web app.](https://phl-power-gen.herokuapp.com/) 
-
-![power](power.png)
 
 
 ## Southeast Asia CO2 emissions
