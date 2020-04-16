@@ -2,12 +2,14 @@ Neil Van Alino, *Data Visualization Specialist, Python Developer*
 
 I am a Mechanical Engineer turned into a DataViz Specialist from the Philippines. It's not that I abandoned engineering but rather I have found a new passion that stem from the critical, disciplined, and holistic mindset molded by engineering.
 
-Contact me for projects, comments, reactions, complaints, and/or suggestions: [**nvqa.business (business email)**](mailto:nvqa.business@gmail.com)
+I specialize in Python data visualizations: Plotly, Matplotlib, Seaborn, and Altair. I also create web apps and dashboards using Dash, Streamlit, Flask, and Django. (Plus a full stack web development experience.)
+
+Contact me for projects, comments, reactions, complaints, and/or suggestions: [**nvqa.business**](mailto:nvqa.business@gmail.com)
 
 
 - [Web apps and dashboards](#web-apps-and-dashboards)
 
-- [Static Visualizations](#static-visualizations)
+- [Static visualizations](#static-visualizations)
 
 
 # Web apps and dashboards
@@ -109,7 +111,7 @@ Explore food prices in this Dash app. [Click me! I'll take you to the web app.](
 ![commodity](commodity.png)
 
 
-# Static Visualizations
+# Static visualizations
 
 
 ## How wealthy is your country?
