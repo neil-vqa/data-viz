@@ -1,8 +1,8 @@
-Neil Van Alino, *Data Visualization Specialist, Python Developer*
+*Data Visualization Portfolio*
 
-I am a Mechanical Engineer turned into a DataViz Specialist from the Philippines. It's not that I abandoned engineering but rather I have found a new passion that stem from the critical, disciplined, and holistic mindset molded by engineering.
 
-I specialize in Python data visualizations: Plotly, Matplotlib, Seaborn, and Altair. I also create web apps and dashboards using Dash, Streamlit, Flask, and Django. (Plus a full stack web development experience.)
+Neil Van Alino, full stack web developer
+
 
 Contact me for projects, comments, reactions, complaints, and/or suggestions: [**nvqa.business**](mailto:nvqa.business@gmail.com)
 
